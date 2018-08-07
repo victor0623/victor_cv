@@ -6,17 +6,17 @@
 *Experience with on-site support in Google for Nexus devices and in factory for device manufacturing
 
 [Education]
-*2003.09 – 2007.06	NTHU/Bachelor of Computer Science
-*2007.09 – 2010.06	NTHU/Master of Computer Science
+*2003.09 - 2007.06	NTHU/Bachelor of Computer Science
+*2007.09 - 2010.06	NTHU/Master of Computer Science
 
 [Qualification]
-*Skills: 	C (Proficient), Git (Intermediate), Linux kernel (Intermediate), Java (Basic)
+*Skills: C (Proficient), Git (Intermediate), Linux kernel (Intermediate), Java (Basic)
 *Language: Mandarin, Taiwanese, English, Japanese.
 *Expertise: Android, BSP, Bootloader, Security, Stroage.
 *Hobbies: Table tennis, Photography, Singing.
 
 [Work Experience and Contribution]
-*2016.07 – present	ASUS/Function Senior Manager    (ZenPad 10, Verizon ZenFone live)
+*2016.07 - present	ASUS/Function Senior Manager    (ZenPad 10, Verizon ZenFone live)
 -Board bring up to setup basic porting environment for team members by integrating AOSP and platform-specific codes
 -Modification of building process to make a single codebase adoptable to two devices by dynamically loading two different groups of DDR parameters
 -Storage feature porting including eMMC/SD kernel driver and vold
@@ -24,13 +24,13 @@
 -Analysis and debugging on CTS issues for Google approval
 -Merging monthly patches of Android Security Bulletins into codebase
 
-*2014.07 – 2016.06	ASUS/Senior Engineer	(ZenFone 3 Ultra, ZenPad 7)
+*2014.07 - 2016.06	ASUS/Senior Engineer	(ZenFone 3 Ultra, ZenPad 7)
 -Design lock/unlock mechanism in bootloader to enhance security, such as preventing end users from changing their own system rom images
 -Implementation of built-in tools to make keybox/hdcp keys provisioned in a secure environment during the device manufacturing process
 -Debugging with SoC vendors to figure out possible reasons for booting failures after secure boot mechanism is enabled
 -Integration of DRM features such as Google Widevine and ARM HDCP
 
-*2011.09 – 2014.06	ASUS/Software Engineer     (ASUS Transformer Pad, Google Nexus 7)
+*2011.09 - 2014.06	ASUS/Software Engineer     (ASUS Transformer Pad, Google Nexus 7)
 -Implementation of bootloader customized requirement, such as adding fastboot commands, designing fastboot menu layout and modifying the mechanism of image flashing
 -Co-working with Google for official bootloader binary release
 -Software support such as immediate issue analysis and debugging for product manufacturing in factory
