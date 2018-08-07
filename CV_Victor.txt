@@ -1,16 +1,16 @@
 [Career summary]
+*Familiar with Android boot flow and security architecture
 *Experience in development of bootloader function porting with NVIDIA/Qualcomm/Intel/MTK SoCs
-*Integration of security features for Android devices
-*Storage function porting for eMMC/SD and vold
-*Stability issue analysis
-*Experience with on-site support in Google for Nexus devices and in factory for device manufacturing
+*Ability to integration of security features on Android devices
+*Experience in storage function porting for eMMC/SD and vold
+*Ability to stability issue analysis, such as device boot fail and hard hang
 
 [Education]
 *2003.09 - 2007.06	NTHU/Bachelor of Computer Science
 *2007.09 - 2010.06	NTHU/Master of Computer Science
 
 [Qualification]
-*Skills: C (Proficient), Git (Intermediate), Linux kernel (Intermediate), Java (Basic)
+*Skills: C, Git, Shell script, Linux kernel, Java
 *Language: Mandarin, Taiwanese, English, Japanese.
 *Expertise: Android, BSP, Bootloader, Security, Stroage.
 *Hobbies: Table tennis, Photography, Singing.
@@ -27,7 +27,7 @@
 *2014.07 - 2016.06	ASUS/Senior Engineer	(ZenFone 3 Ultra, ZenPad 7)
 -Design lock/unlock mechanism in bootloader to enhance security, such as preventing end users from changing their own system rom images
 -Implementation of built-in tools to make keybox/hdcp keys provisioned in a secure environment during the device manufacturing process
--Debugging with SoC vendors to figure out possible reasons for booting failures after secure boot mechanism is enabled
+-Debugging to figure out possible reasons for booting failures after secure boot mechanism is enabled
 -Integration of DRM features such as Google Widevine and ARM HDCP
 
 *2011.09 - 2014.06	ASUS/Software Engineer     (ASUS Transformer Pad, Google Nexus 7)
